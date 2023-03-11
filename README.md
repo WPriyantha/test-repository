@@ -1,7 +1,5 @@
-# Trying to resolving coding issues
-I am now trying to pull to VS Code.
+# Testig for pull command 123
 
-made some changes here to check whether any coding issues occur.
 
 I am trying to be one of the best web developers out there. 
 
